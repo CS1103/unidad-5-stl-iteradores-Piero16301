@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/piero/Downloads/unidad-5-stl-iteradores-Piero16301/Iteradores/ArithProgression.h
+
+/home/piero/Downloads/unidad-5-stl-iteradores-Piero16301/Iteradores/GeomProgression.h
+
+/home/piero/Downloads/unidad-5-stl-iteradores-Piero16301/Iteradores/main.cpp
+iostream
+-
+ArithProgression.h
+/home/piero/Downloads/unidad-5-stl-iteradores-Piero16301/Iteradores/ArithProgression.h
+GeomProgression.h
+/home/piero/Downloads/unidad-5-stl-iteradores-Piero16301/Iteradores/GeomProgression.h
+

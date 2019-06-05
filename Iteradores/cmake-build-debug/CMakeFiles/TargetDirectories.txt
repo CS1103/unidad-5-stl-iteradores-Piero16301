@@ -1,0 +1,3 @@
+/home/piero/Downloads/unidad-5-stl-iteradores-Piero16301/Iteradores/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/piero/Downloads/unidad-5-stl-iteradores-Piero16301/Iteradores/cmake-build-debug/CMakeFiles/Iteradores.dir
+/home/piero/Downloads/unidad-5-stl-iteradores-Piero16301/Iteradores/cmake-build-debug/CMakeFiles/edit_cache.dir
